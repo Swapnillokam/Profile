@@ -5,25 +5,25 @@
 
 - 🌱 I’m currently focused on improving my skills in **MERN stack, DSA, System Design, AWS (EC2/S3/Lambda), and CI/CD with GitHub Actions & Docker**
 
-- 👯 I’m looking to collaborate on [🛠 Real-world MERN stack projects, CAD automation tools, or browser-based engineering tools](https://github.com/Swapnillokam)
+- 👯 I’m looking to collaborate on <a href="https://github.com/Swapnillokam" target="_blank" rel="noreferrer">🛠 Real-world MERN stack projects, CAD automation tools, or browser-based engineering tools</a>
 
-- 🤝 I’m **🧑‍💻 Available for freelance MERN stack and CAD automation projects!**
+- 🤝 I’m <strong>🧑‍💻 Available for freelance MERN stack and CAD automation projects!</strong>
 
-- 👨‍💻 All of my projects are available at [github.com/Swapnillokam](https://github.com/Swapnillokam)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Swapnillokam" target="_blank" rel="noreferrer">github.com/Swapnillokam</a>
 
 - 💬 Ask me about **🔧 Software Architecture, React, Node.js, MongoDB, TailwindCSS, AutoCAD Plugin Development, C#, Next.js**
 
-- 📫 How to reach me: **📩 swapnillokam29@gmail.com** | [LinkedIn](https://www.linkedin.com/in/swapnillokam)
+- 📫 How to reach me: 📩 <a href="mailto:swapnillokam29@gmail.com" target="_blank" rel="noreferrer">swapnillokam29@gmail.com</a> | <a href="https://www.linkedin.com/in/swapnillokam" target="_blank" rel="noreferrer">LinkedIn</a>
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/swapnillokam" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Swapnil Lokam LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/swapnillokam" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:swapnillokam29@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="email" height="30" width="40"/>
+  <a href="mailto:swapnillokam29@gmail.com" target="_blank" rel="noreferrer">
+    <img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email" height="30" width="40"/>
   </a>
 </p>
 
@@ -48,14 +48,14 @@
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
 </a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+</a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
@@ -102,4 +102,4 @@
 
 ---
 
-> 🚀 **“The best way to predict the future is to create it.” – Abraham Lincoln**
+> 🚀 <strong>“The best way to predict the future is to create it.” – Abraham Lincoln</strong>
